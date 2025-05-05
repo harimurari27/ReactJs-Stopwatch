@@ -49,12 +49,12 @@ cd ReactJs-Stopwatch
 # Install dependencies
 npm install
 
-# Start the app
+## Start the app
 npm start
 The app will be running at http://localhost:3000/
 
 
-🧠 What You’ll Learn
+###🧠 What You’ll Learn
 React component structure
 
 Managing state with hooks
@@ -66,7 +66,7 @@ Responsive and accessible UI design
 Clean and scalable code practices
 
 
-🧪 Testing
+###🧪 Testing
 To run the default test suite:
 
 bash
@@ -75,13 +75,13 @@ Edit
 npm test
 You can add more tests in App.test.js and create custom test cases as needed.
 
-🚧 Future Enhancements:
+###🚧 Future Enhancements:
 
 Add lap timer functionality
 Include keyboard shortcuts
 Enable dark/light theme
 Responsive enhancements for mobile screens
 
-🙋‍♂️ Author
+###🙋‍♂️ Author
 Hari Murari
 🔗 https://github.com/harimurari27
