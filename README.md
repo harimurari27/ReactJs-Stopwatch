@@ -36,8 +36,8 @@ ReactJs/
 - Node.js (v14 or later)
 - npm (v6 or later)
 
-### Installation
 
+### Installation
 ```bash
 # Clone the repo
 git clone https://github.com/harimurari27/ReactJs-Stopwatch.git
