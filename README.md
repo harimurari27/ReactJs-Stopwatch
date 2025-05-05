@@ -65,25 +65,13 @@ bash
 Copy
 Edit
 npm test
+Here's the updated section with those lines made more concise and professional, ideal for GitHub or recruiter viewing:
+
 🧠 What You’ll Learn
-React component structure
-
-Managing state with hooks
-
-Real-time DOM updates
-
-Responsive and accessible UI design
-
-Clean and scalable code practices
+Master React fundamentals including functional components, hooks (useState, useEffect), real-time updates, and clean UI design principles.
 
 🚧 Future Enhancements
-⏱ Add lap time functionality
-
-🌗 Dark/light mode toggle
-
-📱 Better mobile responsiveness
-
-📤 Export time history as CSV
+Planned upgrades include lap timing, dark/light theme toggle, improved mobile responsiveness, and time export functionality.
 
 🙋‍♂️ Author
 Hari Murari
